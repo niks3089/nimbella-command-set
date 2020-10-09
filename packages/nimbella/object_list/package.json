@@ -1,0 +1,14 @@
+{
+    "name": "objectlist",
+    "version": "1.0.0",
+    "description": "List object content in the namespace",
+    "license": "Apache",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/nimbella/command-sets.git"
+    },
+    "main": "index.js",
+    "dependencies": {
+      "nimbella-cli": "https://apigcp.nimbella.io/downloads/nim/nimbella-cli.tgz"
+    }
+}

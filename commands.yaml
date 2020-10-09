@@ -1,0 +1,11 @@
+commands:
+  action_list:
+    description: List actions in your namespace
+  package_list:
+    description: List packages in your namespace
+  web_list:
+    description: List web content in your namespace
+  object_list:
+    description: List object content in your namespace
+  redis_list:
+    description: List redis content in your namespace
